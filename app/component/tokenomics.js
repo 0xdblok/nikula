@@ -12,16 +12,13 @@ export default function Tokenomics() {
             <div className="flex items-center justify-center flex-shrink-0 w-12 h-12 text-xl font-bold rounded-full dark:bg-violet-600 dark:text-gray-50">
               1
             </div>
-            <p className="text-2xl font-semibold">TOTAL SUPPLY : 1 BILLION</p>
+            <p className="text-2xl font-semibold">TOTAL SUPPLY : 1B</p>
           </div>
           <div className="flex flex-col p-8 space-y-4 rounded-md dark:bg-gray-50">
             <div className="flex items-center justify-center flex-shrink-0 w-12 h-12 text-xl font-bold rounded-full dark:bg-violet-600 dark:text-gray-50">
               2
             </div>
-            <p className="text-2xl font-semibold">80% LP</p>
-            <p className="text-2xl font-semibold">10% COMMUNITY</p>
-            <p className="text-2xl font-semibold">10% DEV</p>
-            <p className="text-2xl font-semibold">10% MARKETING</p>
+            <p className="text-2xl font-semibold">100% LP</p>
           </div>
           <div className="flex flex-col p-8 space-y-4 rounded-md dark:bg-gray-50">
             <div className="flex items-center justify-center flex-shrink-0 w-12 h-12 text-xl font-bold rounded-full dark:bg-violet-600 dark:text-gray-50">

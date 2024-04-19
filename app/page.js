@@ -10,6 +10,7 @@ export default function Home() {
     <div className="bg-red-100">
       <Hero />
       <Tokenomics />
+    
       <Roadmap />
       <Footer />
     </div>
