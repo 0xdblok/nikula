@@ -120,15 +120,7 @@ export default function Roadmap() {
               </div>
             </div>
           </div>
-          <div aria-hidden="true" className="mt-10 lg:mt-0 md:h-full">
-            <Image
-              className="mx-auto rounded-lg shadow-lg bg-gray-500 md:h-full"
-              src={logo}
-              alt="Nikula Tisla"
-              width={250}
-              height={250}
-            />{" "}
-          </div>
+          <div aria-hidden="true" className="mt-10 lg:mt-0 md:h-full"></div>
         </div>
       </div>
     </section>
